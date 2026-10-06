@@ -3,7 +3,7 @@ title: "ビルド（Build）とは？RailsとDockerの仕組みから改めて�
 emoji: "🛠️"
 type: "tech"
 topics: ["rails", "docker", "build"]
-published: false
+published: true
 ---
 
 ## ビルドとは？
